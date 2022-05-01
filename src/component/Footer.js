@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaFacebook, FaGithub, FaInstagram, FaTwitter, FaTwitch} from 'react-icons/fa'
+import {FaFacebook,FaGithub,FaInstagram, FaTwitter, FaTwitch} from 'react-icons/fa'
 
 const Footer = () => {
     return (
@@ -13,6 +13,7 @@ const Footer = () => {
                         <li className='py-1'>Commerce</li>
                         <li className='py-1'>Data</li>
                         <li className='py-1'>Cloud</li>
+
                     </ul>
                 </div>
                 <div>
