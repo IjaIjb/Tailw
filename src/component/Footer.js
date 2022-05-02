@@ -16,7 +16,7 @@ const Footer = () => {
 
                     </ul>
                 </div>
-                <div>
+                <div>      
                     <h6 className='font-bold uppercase pt-2'>Support</h6>
                     <ul>
                         <li className='py-1'>Pricing</li>
